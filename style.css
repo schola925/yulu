@@ -1,0 +1,27 @@
+.form input {
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  background:  #f8f8f8;
+  width: 70%;
+  border: 0;
+  margin: 0 0 14px;
+  padding: 14px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+.login-page {
+  width: 320px;
+  padding: 3% 0 0;
+  margin: auto;
+}button {
+  background-color: #3077d1;
+  border: circle;
+  color: white;
+  padding: 13px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
